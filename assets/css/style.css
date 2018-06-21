@@ -1,0 +1,15 @@
+body {  
+  
+  
+  color: white;
+  font-weight: 900;
+ background:url(../images/bgImage.jpg) top right no-repeat; background-attachment:fixed;
+
+}
+
+
+.overlay {
+  background-color: #241913;
+  opacity: 0.85;
+}
+
